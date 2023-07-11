@@ -1,10 +1,18 @@
-# 18083000158_Dessya-Christianita-E_7F
- UTS Internet Publisher Lanjutan
+# [Project Kuliah] Merancang Website CRUD dengan Halaman Admin dan Halaman Mahasiswa/i Menggunakan Database MySQL dan PHP
+
+ Merancang Website CRUD sebagai project kuliah Internet Publisher dengan menggunakan Database MySQL dan PHP. Pada website CRUD ini memiliki 2 user yaitu user admin dan user mahasiswa/i, dimana masing masing user memiliki halaman yang berbeda.
  
- CRUD HTML & CSS
+ # Akun Login 
  
- Username : admin
- PW : admin
- 
- Username : dessya
- PW : dessya12
+- Admin
+  
+| Username      | Passowrd      | 
+| ------------- | ------------- |
+| `admin`       | `admin`       |
+
+- Mahasiswa/i
+  
+| Username      | Passowrd      | 
+| ------------- | ------------- |
+| `dessya`      | `dessya12`    |
+
